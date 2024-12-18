@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>AFS</name>
+      <longname>Antithesis Foundations</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Thesis of Murder</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Cancellation</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.</text>
+    </card>
+    <card>
+      <name>Pacifism</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block.</text>
+    </card>
+    <card>
+      <name>Core Pearl</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Core Pearl enters tapped.
+{T}: Add {W}.
+1W, {T}, Sacrifice Core Pearl: Draw a card.</text>
+    </card>
+    <card>
+      <name>Pure Anthem</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Responsive Slash</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Responsive Slash deals 3 damage to target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>Splendid Anthem</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures get +1/+1.</text>
+    </card>
+    <card>
+      <name>Vial of Community</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2/W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/W}, Sacrifice Vial of Community: Until the start of your next turn, creatures you control get +1/+1. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Vial of Responsibility</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2/W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/W}, Sacrifice Vial of Responsibility: Until the start of your next turn, prevent all noncombat damage. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Core Sapphire</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Core Sapphire enters tapped.
+{T}: Add {U}.
+1U, {T}, Sacrifice Core Sapphire: Draw a card.</text>
+    </card>
+    <card>
+      <name>Simple Study</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Conditioned Retrieval</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a creature and {1} less to cast if it targets a permanent you control and {1} less to cast if it’s your turn.
+Return target nonland permanent to its owner’s hand.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Mana Drainage</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. At the beginning of your next main phase, add an amount of {U} equal to that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Vial of Caution</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2/U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/U}, Sacrifice Vial of Caution: Until the start of your next turn, spells your opponents cast cost {1} more to cast. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Vial of Choice</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2/U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/U}, Sacrifice Vial of Choice: Until the start of your next turn, creatures can’t attack you unless their controller pays {1} for each of those creatures. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Core Jet</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Core Jet enters tapped.
+{T}: Add {B}.
+1B, {T}, Sacrifice Core Jet: Draw a card.</text>
+    </card>
+    <card>
+      <name>Thesis of Reanimation</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Vial of Death</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2/B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/B}, Sacrifice Vial of Death: Until the start of your next turn, whenever a player casts a spell, that player loses 2 life.</text>
+    </card>
+    <card>
+      <name>Vial of Selfishness</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2/B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/B}, Sacrifice Vial of Selfishness: Until the start of your next turn, tokens can’t be created.</text>
+    </card>
+    <card>
+      <name>Burning Hands</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning Hands deals 2 damage divided as you choose among one or two targets.</text>
+    </card>
+    <card>
+      <name>Core Ruby</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Core Ruby enters tapped.
+{T}: Add {R}.
+1R, {T}, Sacrifice Core Ruby: Draw a card.</text>
+    </card>
+    <card>
+      <name>Goblin Mangler</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>Infernal Pulse</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Infernal Pulse deals 3 damage to target creature.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Thesis of Impulse</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+    </card>
+    <card>
+      <name>Thesis of Possibility</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Thesis of Blasting</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Thesis of Blasting deals 6 damage to target creature and 2 damage to up to one other target creature token.</text>
+    </card>
+    <card>
+      <name>Vial of Chaos</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2/R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/R}, Sacrifice Vial of Chaos: Until the start of your next turn, permanents you control can’t be enchanted or exiled. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Vial of Ignorance</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2/R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/R}, Sacrifice Vial of Ignorance: Until the start of your next turn, spells you cast can’t be countered.</text>
+    </card>
+    <card>
+      <name>Core Emerald</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Core Emerald enters tapped.
+{T}: Add {G}.
+1G, {T}, Sacrifice Core Emerald: Draw a card.</text>
+    </card>
+    <card>
+      <name>Vial of Destiny</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2/G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/G}, Sacrifice Vial of Destiny: Until the start of your next turn, target creature you control has hexproof. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>Vial of Life</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2/G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2/G}, Sacrifice Vial of Life: Until your next turn, creatures you control can’t be destroyed by effects other than damage.</text>
+    </card>
+    <card>
+      <name>Unsummoning</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Palace of Emerald and Pearl</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Emerald and Pearl enters tapped.
+When Palace of Emerald and Pearl enters, return a land you control to your hand.
+{T}: Add GW.</text>
+    </card>
+    <card>
+      <name>Palace of Emerald and Sapphire</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Emerald and Sapphire enters tapped.
+When Palace of Emerald and Sapphire enters, return a land you control to your hand.
+{T}: Add GU.</text>
+    </card>
+    <card>
+      <name>Palace of Jet and Emerald</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Jet and Emerald enters tapped.
+When Palace of Jet and Emerald enters, return a land you control to your hand.
+{T}: Add BG.</text>
+    </card>
+    <card>
+      <name>Palace of Jet and Ruby</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Jet and Ruby enters tapped.
+When Palace of Jet and Ruby enters, return a land you control to your hand.
+{T}: Add BR.</text>
+    </card>
+    <card>
+      <name>Palace of Pearl and Jet</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Pearl and Jet enters tapped.
+When Palace of Pearl and Jet enters, return a land you control to your hand.
+{T}: Add WB.</text>
+    </card>
+    <card>
+      <name>Palace of Pearl and Sapphire</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Pearl and Sapphire enters tapped.
+When Palace of Pearl and Sapphire enters, return a land you control to your hand.
+{T}: Add WU.</text>
+    </card>
+    <card>
+      <name>Palace of Ruby and Emerald</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Ruby and Emerald enters tapped.
+When Palace of Ruby and Emerald enters, return a land you control to your hand.
+{T}: Add RG.</text>
+    </card>
+    <card>
+      <name>Palace of Ruby and Pearl</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Ruby and Pearl enters tapped.
+When Palace of Ruby and Pearl enters, return a land you control to your hand.
+{T}: Add RW.</text>
+    </card>
+    <card>
+      <name>Palace of Sapphire and Jet</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Sapphire and Jet enters tapped.
+When Palace of Sapphire and Jet enters, return a land you control to your hand.
+{T}: Add UB.</text>
+    </card>
+    <card>
+      <name>Palace of Sapphire and Ruby</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Sapphire and Ruby enters tapped.
+When Palace of Sapphire and Ruby enters, return a land you control to your hand.
+{T}: Add UR.</text>
+    </card>
+    <card>
+      <name>The Village Champion</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Village Champion attacks, create X 1/1 white Human creature tokens, where X is the number of Humans you control.</text>
+    </card>
+    <card>
+      <name>Village Blacksmith</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Village Rally</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant Sorcery - Human </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Human creature tokens.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Doomed Villager</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Doomed Villager dies, create a 1/1 white Human creature token.</text>
+    </card>
+    <card>
+      <name>Swiftstrike Villager</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Swiftstrike Villager has first strike as long as it’s attacking.</text>
+    </card>
+    <card>
+      <name>Haphazard Tactician</name>
+      <set rarity="common" splitterPath="/Haphazard Tactician.png" >AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, Haphazard Tactician has double strike.
+Gambit 1W (You may cast this card’s back face from your sanctum by sacrificing an artifact, enchantment, token, or conjuration and paying 1W. After it resolves, exile this card on an adventure.)
+---
+(Back): Risky Stratagem</text>
+      <related attach="transform">Risky Stratagem</related>
+    </card>
+    <card>
+      <name>Risky Stratagem</name>
+      <set rarity="common" splitterPath="/Risky Stratagem.png" >AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure two Infantry conjurations into your hand. (They’re 1/1 Soldier creatures with mana cost {0}.)
+---
+(Front): Haphazard Tactician</text>
+      <related attach="transform">Haphazard Tactician</related>
+    </card>
+    <card>
+      <name>Mantra of Loyalty</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast Mantra of Loyalty from your sanctum if their are nine or more cards in your sanctum.
+Creature tokens and creature conjurations you control get +2/+2.</text>
+    </card>
+    <card>
+      <name>Sapphire Familiar</name>
+      <set rarity="common" splitterPath="/Sapphire Familiar.png" >AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sapphire Familiar enters, draw a card from your sanctum.
+---
+(Back): Path of Sapphire</text>
+      <related attach="transform">Path of Sapphire</related>
+    </card>
+    <card>
+      <name>Path of Sapphire</name>
+      <set rarity="common" splitterPath="/Path of Sapphire.png" >AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Sapphire enters tapped.
+{T}: Add {U}.
+---
+(Front): Sapphire Familiar</text>
+      <related attach="transform">Sapphire Familiar</related>
+    </card>
+    <card>
+      <name>Plains Dweller</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3W // 1</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Peasant  // Sorcery - Focus </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vigilance
+--- 
+Reveal a Plains from your sanctum and put it into your hand. (Then put this card into your sanctum.)</text>
+    </card>
+    <card>
+      <name>Projection of Knowledge</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast Projection of Knowledge from your sanctum if you’ve cast two or more spells this turn or drawn two or more cards this turn.
+When Projection of Knowledge becomes the target of a spell or ability, put it into its owner’s sanctum.</text>
+    </card>
+    <card>
+      <name>Equalization Center</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Equalization Center enters tapped.
+When Equalization Center enters, untap another target land.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Palace of Pearl</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Palace of Pearl enters with a stun counter.
+{T}: Add {W}.
+{2}, Sacrifice Palace of Pearl: Put a basic land card from your sanctum onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Repetitive Commons</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Repetitive Commons enters with a stun counter.
+When Repetitive Commons enters, return a land you control to its owner’s hand.
+{T}: Add CC.</text>
+    </card>
+    <card>
+      <name>Ambiguous Tower</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost> // 3</manacost>
+        <cmc>0</cmc>
+        <type>Land // Instant Sorcery - Focus </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may have Ambiguous Tower enter tapped. If you do, choose a color.
+{T}: Add {C} or one mana of the chosen color.
+--- 
+Draw a card. Create a treasure token. (Then put this card into your sanctum.)</text>
+    </card>
+    <card>
+      <name>Infantry Conjuration</name>
+      <set rarity="">AFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Conjuration Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Army Recruiter</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+1W, {T}: Create a 1/1 white Human creature token.</text>
+    </card>
+    <card>
+      <name>Sanctifying Word</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target creature into its owner’s sanctum. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Village Charge</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Mantra of Knowledge</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast Mantra of Knowledge from your sanctum if their are nine or more cards in your sanctum.
+Whenever a creature you control deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Pearl Familiar</name>
+      <set rarity="common" splitterPath="/Pearl Familiar.png" >AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pearl Familiar enters, draw a card from your sanctum.
+---
+(Back): Path of Pearl</text>
+      <related attach="transform">Path of Pearl</related>
+    </card>
+    <card>
+      <name>Path of Pearl</name>
+      <set rarity="common" splitterPath="/Path of Pearl.png" >AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Pearl enters tapped.
+{T}: Add {W}.
+---
+(Front): Pearl Familiar</text>
+      <related attach="transform">Pearl Familiar</related>
+    </card>
+    <card>
+      <name>Island Dweller</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3U // 1</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Peasant  // Sorcery - Focus </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vigilance
+--- 
+Reveal an Island from your sanctum and put it into your hand. (Then put this card into your sanctum.)</text>
+    </card>
+    <card>
+      <name>Projection of Loyalty</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast Projection of Loyalty from your sanctum by sacrificing three tokens and/or conjurations in addition to its other costs.
+When Projection of Loyalty becomes the target of a spell or ability, put it into its owner’s sanctum.</text>
+    </card>
+    <card>
+      <name>The Archive Champion</name>
+      <set rarity="rare">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Sphinx Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Wizards you control have flying.</text>
+    </card>
+    <card>
+      <name>Amateur Arcanist</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Amateur Arcanist enters, scry 1.</text>
+    </card>
+    <card>
+      <name>Arcane Announcer</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arcane Announcer enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Arcanist&apos;s Companion</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Vigilant Mage</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add {U}. Spend this mana only to cast sorcery or Wizard spells.</text>
+    </card>
+    <card>
+      <name>Sharp-Eyed Seer</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Sharp-Eyed Seer attacks, scry 1.</text>
+    </card>
+    <card>
+      <name>Swift Study</name>
+      <set rarity="uncommon">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Swiftcaster Mage</name>
+      <set rarity="common">AFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As long as it’s not your turn, spells you cast cost {1} less to cast.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Sanctum Reminder</name>
+      <set>AFS</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Before the game starts, place your sanctum here face down. This is not an ordered deck. You can look at your sanctum at any time.
+Your sanctum consists of up to seven basics lands and unique nonlands that can start in the sanctum.
+You may sideboard to add or remove cards from your sanctum as long as they are all unique or are basic lands.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
